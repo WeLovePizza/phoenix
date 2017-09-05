@@ -15,8 +15,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-![logo](http://phoenix.apache.org/images/logo.png)
+![logo](http://phoenix.apache.org/images/logo/phoenix-logo-trans.png)
 
 <b>[Apache Phoenix](http://phoenix.apache.org/)</b> is a SQL skin over HBase delivered as a client-embedded JDBC driver targeting low latency queries over HBase data. Visit the Apache Phoenix website <b>[here](http://phoenix.apache.org/)</b>.
 
-Copyright ©2014 [Apache Software Foundation](http://www.apache.org/). All Rights Reserved. 
+Copyright ©2017 [Apache Software Foundation](http://www.apache.org/). All Rights Reserved. 
